@@ -7,6 +7,6 @@
 -   Express.
 -   Json Web Token (JWT).
 
-## Autor
+## Author
 
 -   [Adeilson Á. A. Lima](https://www.github.com/adeilsonaalima)
